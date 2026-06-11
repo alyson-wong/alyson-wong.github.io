@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Alyson Wong | PhD Candidate
+google_analytics:
+show_downloads: false
