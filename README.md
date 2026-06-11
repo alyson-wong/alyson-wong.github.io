@@ -1,5 +1,5 @@
 # Welcome!
 
-![image](alyson_wong.png)
+<img src="alyson_wong.png" width="300">
 
 I am a fourth-year PhD candidate in the UC Berkeley Psychology Department advised by Fei Xu. My research focuses on infants' and young children's conceptual development and probabilistic reasoning.
